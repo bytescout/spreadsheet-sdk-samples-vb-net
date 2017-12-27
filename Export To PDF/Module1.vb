@@ -21,7 +21,7 @@ Module Module1
 		document.LoadFromFile("SimpleReport.xls")
 
 		' add image
-    	document.Workbook.Worksheets(0).Pictures.Add(0, 5, "image.jpg")
+    	document.Workbook.Worksheets(0).Pictures.Add(5, 1, "image.jpg")
 
         ' remove output file if already exists
         If File.Exists("Output.pdf") Then
@@ -29,7 +29,8 @@ Module Module1
         End If
 
         ' Export to PDF
-		document.SaveAsPDF("Output.pdf")
+        Dim autosize = False
+		document.SaveAsPDF("Output.pdf", autosize)
 
         ' Close Spreadsheet
         document.Close()
