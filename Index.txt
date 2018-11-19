@@ -53,6 +53,7 @@
 \Font Style In Cell
 \Fonts Available For Cells
 \Freeze Rows And Columns
+\Generate Invoice
 \Get Cell Color
 \Hello World
 \Hidden Formula
