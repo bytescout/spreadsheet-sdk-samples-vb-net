@@ -1,46 +1,51 @@
 ## Index of source code examples:
 
+\Add Area Chart
 \Add Background Image
-\Add Chart Area
-\Add Chart Bar
-\Add Chart Bubble
-\Add Chart Column
-\Add Chart Combination
-\Add Chart Doughnut
-\Add Chart Line
-\Add Chart Pie
-\Add Chart Radar
-\Add Chart Stock
-\Add Chart Surface
-\Add Chart XYScatter
+\Add Bar Chart
+\Add Bubble Chart
+\Add Column Chart
 \Add Columns Into Existing Spreadsheet
+\Add Combination Chart
+\Add Doughnut Chart
 \Add Header and Footer
 \Add Images
 \Add Images Advanced
+\Add Line Chart
+\Add Pie Chart
+\Add Radar Chart
 \Add Rows Into Existing Spreadsheet
+\Add Stock Chart
+\Add Surface Chart
+\Add XYScatter Chart
 \Calculate Formula In Cell
 \Calculate XIRR Function
 \Calculations and Spreadsheet as Database
-\Cell Alignment
 \Change Cell Width and Height
 \Change Column Width and Row Height
 \Change Data in Existing Spreadsheet
 \Change Document Properties
+\convert ODS to SQL Server
+\convert Template To XLS
+\convert TXT to SQL Server
 \Convert XLS to CSV
+\convert XLS to SQL Server
+\convert XLS to SQL Server (via CSV BULK INSERT)
 \Convert XLS to TXT
 \Convert XLS to XLSX
 \Convert XLS to XML
+\convert XLS to XML and XML to XLS
+\convert XLSX to SQL Server
 \Convert XML to XLS
 \Copy range
 \Copy Worksheet
 \CopyPaste Columns
 \CopyPaste Rows
+\create simple Hello World spreadsheet
 \Create Worksheets
 \Create XLSX
 \CSV to SQL Server
 \CSV to XLS
-\Custom Functions
-\Date Formatting in Cells
 \Export To 2D Array
 \Export To DataSet
 \Export To DataTable
@@ -55,9 +60,6 @@
 \Freeze Rows And Columns
 \Generate Invoice
 \Get Cell Color
-\Hello World
-\Hidden Formula
-\Hidden Rows And Columns
 \Import From 2D Array
 \Import From DataSet
 \Import From DataTable
@@ -70,7 +72,6 @@
 \Merge Cells
 \Merge Two Documents
 \Number Format In Cells
-\ODS to SQL Server
 \Read Cell Color
 \Read CSV File
 \Read Date From Cell
@@ -87,25 +88,19 @@
 \Rich Text Formatting in Cell
 \Search Text
 \Select Active Worksheet
+\Set Cell Alignment
 \Set Cell Formula
-\ShrinkToFit for Cells
+\Set Custom Functions
+\Set Date Formatting in Cells
+\Set Hidden Formula
+\Set Hidden Rows And Columns
+\set ShrinkToFit for Cells
 \Swap Cells and Their Values
 \Swap Worksheets
-\Template To XLS
-\TXT to SQL Server
-\Unicode Text
 \Unmerge Cells
 \Use Rich Formatting to Create Report
+\use Unicode Text
 \Validate Cell if Value is in Range
 \Validate Cells with Dates
 \Validate Data in Cell and Mark Wrong With Color
 \View Spreadsheet
-\XLS to SQL Server
-\XLS to SQL Server (via CSV BULK INSERT)
-\XLS to XML and XML to XLS
-\XLSX to SQL Server
-\_Web API
-\_Web API\CSV To PDF
-\_Web API\CSV To PDF\Convert CSV To PDF From Uploaded File
-\_Web API\CSV To PDF\Convert CSV To PDF From URL
-\_Web API\CSV To PDF\Convert CSV To PDF From URL Asynchronously
