@@ -25,23 +25,23 @@
 \Change Column Width and Row Height
 \Change Data in Existing Spreadsheet
 \Change Document Properties
-\convert ODS to SQL Server
-\convert Template To XLS
-\convert TXT to SQL Server
+\Convert ODS to SQL Server
+\Convert Template To XLS
+\Convert TXT to SQL Server
 \Convert XLS to CSV
-\convert XLS to SQL Server
-\convert XLS to SQL Server (via CSV BULK INSERT)
+\Convert XLS to SQL Server
+\Convert XLS to SQL Server (via CSV BULK INSERT)
 \Convert XLS to TXT
 \Convert XLS to XLSX
 \Convert XLS to XML
-\convert XLS to XML and XML to XLS
-\convert XLSX to SQL Server
+\Convert XLS to XML and XML to XLS
+\Convert XLSX to SQL Server
 \Convert XML to XLS
-\Copy range
+\Copy Range
 \Copy Worksheet
 \CopyPaste Columns
 \CopyPaste Rows
-\create simple Hello World spreadsheet
+\Create Simple Hello World Spreadsheet
 \Create Worksheets
 \Create XLSX
 \CSV to SQL Server
@@ -94,12 +94,12 @@
 \Set Date Formatting in Cells
 \Set Hidden Formula
 \Set Hidden Rows And Columns
-\set ShrinkToFit for Cells
+\Set ShrinkToFit for Cells
 \Swap Cells and Their Values
 \Swap Worksheets
 \Unmerge Cells
 \Use Rich Formatting to Create Report
-\use Unicode Text
+\Use Unicode Text
 \Validate Cell if Value is in Range
 \Validate Cells with Dates
 \Validate Data in Cell and Mark Wrong With Color
