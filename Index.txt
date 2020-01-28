@@ -73,6 +73,7 @@
 \Merge Cells
 \Merge Two Documents
 \Number Format In Cells
+\Override Culture and Date Format Settings
 \Read Cell Color
 \Read CSV File
 \Read Date From Cell
