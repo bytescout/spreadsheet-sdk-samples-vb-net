@@ -106,3 +106,4 @@
 \Validate Cells with Dates
 \Validate Data in Cell and Mark Wrong With Color
 \View Spreadsheet
+\Workbook AutoCalculation
